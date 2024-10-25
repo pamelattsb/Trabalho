@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #FF5733; /* Vermelho */
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.follow-button {
+    background-color: #C70039; /* Vermelho escuro */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.follow-button:hover {
+    background-color: #900C3F; /* Vermelho mais escuro */
+}
+
+section {
+    margin: 20px;
+    padding: 15px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #FF5733; /* Vermelho */
+}
+
+.menu-image {
+    width: 100px; /* Ajuste o tamanho conforme necessário */
+    height: auto;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.contact {
+    background-color: #f8f8f8;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #FF5733; /* Vermelho */
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
